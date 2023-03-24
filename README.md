@@ -1,0 +1,1 @@
+Brief sur les RNN afin d'étudier les time series sur des données multivariées. 
